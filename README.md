@@ -26,3 +26,6 @@ Avec le *shield* grove, captation de distance par ultrason, affichage sur un éc
 Avec le *shield* grove, 3 capteurs de distance à ultrason, un seul message série envoyé vers processing.
 
 ![3 x distance ultrason série](./grove_3xdistance_ultrason_serie/microbit_grove_3xdistance_ultrason_serie.png)
+
+**[datalogging_microbit_v2](./datalogging_microbit_v2)**  
+Un exemple avec la carte micro:bit version 2 qui peut conserver des données dans la mémoire persistante.
